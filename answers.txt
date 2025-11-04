@@ -1,0 +1,11 @@
+Cecia Bermudez Hernandez and Matthew 
+Week 11 Teamwork 5 
+November 4, 2025 
+1.	Git Remote: What does the command git remote add origin <URL> actually do? Why is this step necessary for publishing a brand-new local repository?
+
+2.	Compilation Process: If the pumpkin drawing had 100 lines of std::cout, how would the complexity of the program change? Why does the use of the for loop in the original code make the C++ file more flexible?
+
+3.	Git Commands: What specific Git command would you use to view the full history of the commits you made in this assignment (Tasks 3 and 6)?
+
+4.	Error Handling: If your push failed with an error like error: failed to push some refs to..., what is the most likely reason, and what command would you try next? (Hint: Think about remote vs. local copies).
+
